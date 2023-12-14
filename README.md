@@ -36,6 +36,10 @@ To enhance the Semantics of the HTML and make improvements in the CSS the follow
  Overall increased the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, 
 and including comments before each element or section of the page.
 
+## . Mock Up
+     Deployed URL : https://meerkar.github.io/Semantic-Refactor/
+     
+
 
 
 
