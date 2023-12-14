@@ -14,7 +14,7 @@ wants a codebase that follows accessibility standards so that their site optimiz
 the search engine and other devices to determine the importance and context of web pages. The pages made with semantic elements are easier to 
 read and offers a better user accessibility .
 
-##2. Problem
+## 2. Problem
 
 
 
