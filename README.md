@@ -37,8 +37,7 @@ To enhance the Semantics of the HTML and make improvements in the CSS the follow
 and including comments before each element or section of the page.
 
 ## . Mock Up
-     Deployed URL : https://meerkar.github.io/Semantic-Refactor/
-     
+    
 
 
 
