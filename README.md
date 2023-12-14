@@ -40,6 +40,8 @@ and including comments before each element or section of the page.
 
 <img width="1434" alt="image" src="https://github.com/MeerKar/Semantic-Refactor/assets/116701851/849fb2ca-1b20-4a31-b844-8666153e435a">
 <img width="1430" alt="image" src="https://github.com/MeerKar/Semantic-Refactor/assets/116701851/6d7f4862-8a60-4b99-80a3-cbecce52c4a3">
+<img width="1409" alt="image" src="https://github.com/MeerKar/Semantic-Refactor/assets/116701851/6b5c4699-06c1-4faa-ab31-d78685d0893c">
+
 
 
 
